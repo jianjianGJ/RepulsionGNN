@@ -1,5 +1,5 @@
 # RepulsionGNN
-The root path in data_utils should be changed to your path.
+The root path in data_utils.py should be changed to your path.
 
 1. run 'python ./prepare.py --dataset='arxiv' --epochs=2 --num-layers=3' to run the basic model. The basic prediction and Confusion Matrix can be obtained.
 
